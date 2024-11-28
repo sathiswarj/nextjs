@@ -38,6 +38,6 @@ export const RegisterForm = [
       label: "Confirm Password",
       componentType: "input",
       type: "password",
-    },
+    }
   ];
   
