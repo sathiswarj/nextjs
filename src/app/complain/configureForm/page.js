@@ -2,8 +2,7 @@ export const RegisterForm = [
     {
       name: "name",
       id: "name",
-      placeholder: "Enter your name",
-      label: "Name",
+      label: "Your Name",
       componentType: "input",
       type: "text",
     },
